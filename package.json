@@ -1,0 +1,51 @@
+{
+  "name": "anotherexercise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "type": "module",
+  "dependencies": {
+    "@ant-design/cssinjs": "^1.17.2",
+    "@ant-design/icons": "^5.2.5",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@next-auth/typeorm-legacy-adapter": "^2.0.2",
+    "antd": "^5.11.1",
+    "axios": "^1.4.0",
+    "bulma": "^0.9.4",
+    "connect-mysql": "^4.0.0",
+    "connect-session-knex": "^3.0.1",
+    "dayjs": "^1.11.9",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.1",
+    "file-saver": "^2.0.5",
+    "js-sha256": "^0.9.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.6.0",
+    "knex": "^2.4.2",
+    "moment-timezone": "^0.5.43",
+    "mysql": "^2.18.1",
+    "next": "13.3.1",
+    "next-auth": "^4.22.1",
+    "next-session": "^4.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-number-format": "^5.3.1",
+    "serverless-mysql": "^1.5.5",
+    "sheetjs-style": "^0.15.8",
+    "typeorm": "^0.3.7",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.6",
+    "express-mysql-session": "^3.0.0",
+    "sass": "^1.62.1"
+  }
+}
